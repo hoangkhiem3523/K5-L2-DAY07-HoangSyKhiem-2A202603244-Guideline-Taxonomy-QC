@@ -22,7 +22,7 @@ Chưa đo.
 
 ## 5. Dùng AI
 
-Cursor được dùng để xem 40 ảnh trong `data/images/` và thảo guideline Pha 1 này. Các quyết định lớp và số box trong file guideline là bản nháp của 2A202603275. Trước họp nhóm, tôi mở lại từng ảnh được nêu, nhất là `img_011` và `img_019`, vì hai ảnh đó dễ đổi quyết định nếu nhìn thấy người thật bên trong hình.
+Chưa dùng
 
 ## 6. Bài học
 
