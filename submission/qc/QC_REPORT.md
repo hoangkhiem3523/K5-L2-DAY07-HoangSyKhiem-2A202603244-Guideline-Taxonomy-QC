@@ -1,10 +1,10 @@
-# Báo cáo QC — Nhóm 1 (AI20K K5 L2)
+# Báo cáo QC — Nhom01
 
 ## 1. Mục đích, dữ liệu và phiên bản
 
 - Mục đích và giới hạn sử dụng: Đặc tả và QC nhãn 2D bounding box phục vụ huấn luyện mô hình phát hiện người và phương tiện; giới hạn độ đại diện cho dữ liệu thực tế nội đô và ngoại thành.
 - Nguồn và phép sử dụng dữ liệu: Xem chi tiết trong ATTRIBUTION.csv, toàn bộ 40 ảnh có bản quyền Creative Commons hoặc Public Domain hợp lệ.
-- Manifest và checksum nhãn cuối: batch_manifest.json (SHA-256: ab2fb06de761c2a7e9e89b87d4ca05713e89cfc4949e1bd08a4a9e1ceaadf7b5); labels_calibrated.json (SHA-256: bbdc61a66d36ff1c2829e88f1da35259ab99efbfef9246538cafd79bd9be6a3d).
+- Manifest và checksum nhãn cuối: batch_manifest.json (SHA-256: 66406ee96213215e28484ec44fd077f21201ddefe53d67fced670cf80bd9bc35); labels_calibrated.json (SHA-256: bbdc61a66d36ff1c2829e88f1da35259ab99efbfef9246538cafd79bd9be6a3d).
 - Guideline và taxonomy khi gán / khi bàn giao: Khi gán dùng Guideline v1.0 và Taxonomy v1.0; khi bàn giao dùng Guideline v1.1 sau hiệu chuẩn Calibration và giữ nguyên Taxonomy v1.0.
 
 ## 2. Phân công và đồng thuận trước calibration
@@ -23,7 +23,7 @@
 ## 4. Kết quả duyệt
 
 - Vòng QC: 1
-- Người review và ngày: 272 (Nguyễn Thị Hồng Hạnh), 2026-11-16
+- Người review và ngày: 272, 2026-11-16
 - Đã duyệt / cả lô: 40/40 ảnh (100% toàn bộ lô).
 - Ảnh lỗi / ảnh đã duyệt: 0/40 = 0.0% (ngưỡng tối đa cho phép là 2.0%).
 - Annotation đối tượng hiện có bị lỗi / annotation đối tượng đã duyệt: 0/356 = 0.0%.

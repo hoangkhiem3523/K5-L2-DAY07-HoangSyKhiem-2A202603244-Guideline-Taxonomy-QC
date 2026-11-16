@@ -1,3 +1,11 @@
+# Guideline gán nhãn — v0.1 — 281
+
+- Phiên bản: v0.1
+- Ngày: 2026-11-16
+- Người viết / duyệt: 281
+
+---
+
 ## 1. Mục tiêu
 
 Dùng box và lớp để huấn luyện mô hình phát hiện người và phương tiện trong ảnh đường phố 2D, phục vụ đếm đối tượng và định vị chúng trên ảnh. Với ứng dụng cảnh báo giao thông, bỏ sót người đi bộ đang qua đường (`img_034`) hoặc gộp người ngồi trên xe máy vào box xe (`img_006`, `img_026`) làm mất thông tin về vị trí người. Gán xe đồ chơi hoặc ảnh phản chiếu thành xe thật tạo báo động giả (`img_020`, `img_038`). Box ăn vào hàng cồng kềnh làm sai vị trí và kích thước của xe (`img_029`).

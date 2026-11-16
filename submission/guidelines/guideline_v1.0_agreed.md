@@ -1,9 +1,8 @@
-# Guideline gán nhãn — v1.0 — Nhóm Thống Nhất
+# Guideline gán nhãn — v1.0 — Nhom01
 
-- Phiên bản: v1.0 (Bản khóa chính thức cho Pha 3 - Gán nhãn độc lập)
+- Phiên bản: v1.0
 - Ngày: 2026-11-16
-- Nhóm: Nhóm 1 - AI20K K5 L2 (Các thành viên: 101, 102, 103, 104, 105)
-- Người điều phối / biên tập: Thành viên 101 (Hoàng Sỹ Khiêm)
+- Người viết / duyệt: 244, 270, 272, 275, 281
 
 ---
 

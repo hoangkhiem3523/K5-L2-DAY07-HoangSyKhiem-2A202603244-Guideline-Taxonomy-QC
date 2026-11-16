@@ -1,9 +1,8 @@
-# Guideline gán nhãn — v1.1 — Sau Calibration
+# Guideline gán nhãn — v1.1 — Nhom01
 
-- Phiên bản: v1.1 (Bản hiệu chuẩn chính thức sau phiên Calibration)
+- Phiên bản: v1.1
 - Ngày: 2026-11-16
-- Nhóm: Nhóm 1 - AI20K K5 L2 (Các thành viên: 244, 270, 272, 275, 281)
-- Người điều phối / biên tập: Thành viên 244 (Hoàng Sỹ Khiêm)
+- Người viết / duyệt: 244, 270, 272, 275, 281
 
 ---
 

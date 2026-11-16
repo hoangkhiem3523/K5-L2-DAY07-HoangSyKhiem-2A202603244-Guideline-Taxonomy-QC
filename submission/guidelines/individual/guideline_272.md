@@ -1,13 +1,8 @@
-# Guideline gán nhãn — v1 — 2A202603272
+# Guideline gán nhãn — v0.1 — 272
 
-- **Phiên bản:** v1
-- **Ngày:** 16/11/2026
-- **Người viết:** Nguyen Thi Hong Hanh
-- **Người duyệt:** Trưởng nhóm
-- **Loại nhãn:** Bounding Box (hộp chữ nhật) và Object Attributes
-- **Công cụ:** CVAT
-- **Định dạng xuất:** COCO 1.0
-- **Lĩnh vực:** Nhận diện người và phương tiện giao thông đường phố.
+- Phiên bản: v0.1
+- Ngày: 2026-11-16
+- Người viết / duyệt: 272
 
 ---
 

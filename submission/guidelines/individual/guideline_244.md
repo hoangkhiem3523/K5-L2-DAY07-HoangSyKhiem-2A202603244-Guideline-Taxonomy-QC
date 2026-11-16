@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v0.1 — Thành viên 244
+# Guideline gán nhãn — v0.1 — 244
 
-- Phiên bản: v0.1 (Đề xuất cá nhân - Pha 1)
+- Phiên bản: v0.1
 - Ngày: 2026-11-16
-- Người viết: Thành viên 244 (Hoàng Sỹ Khiêm)
+- Người viết / duyệt: 244
 
 ---
 

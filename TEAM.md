@@ -1,9 +1,9 @@
 # Thông tin nhóm
 
-- Tên nhóm: Nhóm 1 - AI20K K5 L2
+- Tên nhóm: Nhom01
 - Mã thành viên (ba chữ số): 244, 270, 272, 275, 281
-- Người điều phối: 244 (Hoàng Sỹ Khiêm)
-- Người review bản cuối: 244 (Hoàng Sỹ Khiêm)
+- Người điều phối: 244
+- Người review bản cuối: 272
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)
