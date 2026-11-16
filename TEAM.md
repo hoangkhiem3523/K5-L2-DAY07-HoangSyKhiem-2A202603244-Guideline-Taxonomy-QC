@@ -1,9 +1,9 @@
 # Thông tin nhóm
 
 - Tên nhóm: Nhóm 1 - AI20K K5 L2
-- Mã thành viên (ba chữ số): 101, 102, 103, 104, 105
-- Người điều phối: 101 (Hoàng Sỹ Khiêm)
-- Người review bản cuối: 101 (Hoàng Sỹ Khiêm)
+- Mã thành viên (ba chữ số): 244, 270, 272, 275, 281
+- Người điều phối: 244 (Hoàng Sỹ Khiêm)
+- Người review bản cuối: 244 (Hoàng Sỹ Khiêm)
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)
