@@ -1,0 +1,18 @@
+case_id,image,issue_type,annotators,class_a,class_b,box_a,box_b,iou,ghi_chu_tu_dong
+C001,img_003.jpg,iou_thap,270|272,person,person,"[447,16,35,80]","[451,17,35,78]",0.83,IoU 0.83 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C002,img_008.jpg,iou_thap,244|281,person,person,"[580,205,21,53]","[578,206,22,53]",0.83,IoU 0.83 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C003,img_008.jpg,iou_thap,272|281,person,person,"[581,205,19,53]","[578,206,22,53]",0.81,IoU 0.81 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C004,img_011.jpg,iou_thap,244|270,person,person,"[170,342,22,63]","[169,344,22,61]",0.85,IoU 0.85 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C005,img_011.jpg,iou_thap,244|270,person,person,"[213,341,14,61]","[212,339,16,64]",0.84,IoU 0.84 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C006,img_011.jpg,iou_thap,244|270,person,person,"[266,339,17,54]","[264,338,21,56]",0.80,IoU 0.80 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C007,img_011.jpg,iou_thap,244|275,person,person,"[213,341,14,61]","[214,340,15,63]",0.76,IoU 0.76 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C008,img_011.jpg,iou_thap,270|275,person,person,"[212,339,16,64]","[214,340,15,63]",0.85,IoU 0.85 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C009,img_011.jpg,iou_thap,270|275,person,person,"[264,338,21,56]","[266,338,18,55]",0.84,IoU 0.84 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C010,img_011.jpg,iou_thap,270|275,person,person,"[358,340,21,59]","[356,341,24,61]",0.82,IoU 0.82 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C011,img_020.jpg,bo_sot_thua,244|270,car,,"[204,407,53,48]",,,Chỉ 244 vẽ car này. 270 bỏ sót hoặc 244 vẽ thừa.
+C012,img_020.jpg,bo_sot_thua,244|272,car,,"[204,407,53,48]",,,Chỉ 244 vẽ car này. 272 bỏ sót hoặc 244 vẽ thừa.
+C013,img_031.jpg,iou_thap,244|270,person,person,"[190,363,20,62]","[191,362,20,64]",0.84,IoU 0.84 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C014,img_031.jpg,iou_thap,244|272,person,person,"[190,363,20,62]","[188,361,20,62]",0.81,IoU 0.81 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C015,img_031.jpg,iou_thap,270|272,person,person,"[161,373,21,56]","[164,373,19,58]",0.82,IoU 0.82 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C016,img_031.jpg,iou_thap,270|272,person,person,"[191,362,20,64]","[188,361,20,62]",0.71,IoU 0.71 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
+C017,img_034.jpg,iou_thap,275|281,person,person,"[640,229,42,74]","[643,227,36,76]",0.84,IoU 0.84 < ngưỡng 0.85 (box lệch/lỏng/thiếu phần vật)
